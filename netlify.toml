@@ -1,0 +1,4 @@
+# The site is plain static HTML/JS in Site/ — there is no Jekyll project to build.
+[build]
+  command = "echo 'Static site: no build step required'"
+  publish = "Site"
